@@ -1,0 +1,2 @@
+# Machine-Learning-Pipeline-for-Wisconsin-Breast-Cancer-Diagnosis
+This project develops a machine learning pipeline for Wisconsin Breast Cancer diagnosis using exploratory data analysis, leak-proof preprocessing, and classification models. Logistic Regression achieved 95.61% test accuracy and 96.92% cross-validation accuracy, providing reliable benign and malignant tumor prediction for clinical decision support.
